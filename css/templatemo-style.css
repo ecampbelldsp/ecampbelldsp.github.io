@@ -5,7 +5,13 @@ Ultra Profile
 https://templatemo.com/tm-464-ultra-profile
 
 */
-
+.icon {
+/*    background: url('your-image-url.jpg');*/
+    height: 40px;
+/*    width: 40px;*/
+    display: block;
+    /* Other styles here */
+}
 body {
   background: #ffffff;
   font-family: 'Raleway', sans-serif;
@@ -142,6 +148,7 @@ hr {
   border: 1px solid #666;
   border-radius: 2px;
   text-align: center;
+  height: 700px;
   padding: 80px 40px 80px 40px;
   -webkit-transition: all 0.6s ease-in;
           transition: all 0.6s ease-in;
